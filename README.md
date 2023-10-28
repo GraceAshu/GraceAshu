@@ -5,10 +5,13 @@
 
 [AZ-900](https://www.credly.com/badges/ee85a4ce-d0cd-4eec-93e5-2f97d95c6e49?source=linked_in_profile)
 
+[AWS Certified Solutions Architect-Associate](https://www.credly.com/earner/earned/badge/a6cb0562-04e4-46c3-a8b1-c6d9c0243182)
+
+
+
 
   <h3>👨‍💻Projects:</h3>
   
-
 - <b>AWS S3</b>
 [Creating a static website using S3](https://github.com/GraceAshu/Creating-a-static-website-using-S3-on-AWS)
   
